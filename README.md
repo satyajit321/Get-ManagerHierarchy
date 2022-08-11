@@ -5,7 +5,7 @@ Date: 8 Aug 2022
 Author: Satyajit
 Version: 1.1a
 
-This is working, however the view is cluttered, need to work on a better view.
+Intial view was cluttered worked on a better view. The tree is inverted, however makes it readable and fits the purpose.
 
 Get-ManagerHierarchy -DepthLevel 10  
 
